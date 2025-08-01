@@ -30,18 +30,18 @@ Developed Arduino robots using C++. Led team efforts in coding and hardware inte
 
 ---
 
-### 🔍 GitHub Stats & Widgets
+### . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁. GitHub Stats & Widgets. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
 
 ![Janine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ja9kyl3&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ja9kyl3&layout=compact)
 
 ---
 
-### 📬 Connect with Me
+### ✉︎ Connect with Me
 
-- 📧 Email: jdbokingkito@cpp.edu  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link) *(update with your actual LinkedIn URL)*  
-- 🧠 GitHub: [@ja9kyl3](https://github.com/ja9kyl3)
+-  Email: jdbokingkito@cpp.edu  
+-  [LinkedIn](https://www.linkedin.com/in/your-link) *(update with your actual LinkedIn URL)*  
+-  GitHub: [@ja9kyl3](https://github.com/ja9kyl3)
 
 ---
 
