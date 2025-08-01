@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Janine!
+# Janine Bokingkito
 
 𖹭 I'm a sophomore Computer Science student at Cal Poly Pomona with a passion for analysis, problem-solving, and AI/ML. I love applying technical skills to real-world challenges where I can make a meaningful impact.
 
@@ -39,8 +39,8 @@ Developed Arduino robots using C++. Led team efforts in coding and hardware inte
 
 ### ✉︎ Connect with Me
 
--  Email: jdbokingkito@cpp.edu  
--  [LinkedIn](https://www.linkedin.com/in/your-link) *(update with your actual LinkedIn URL)*  
+-  Email: janinebokingkito@gmail.com
+-  [LinkedIn](www.linkedin.com/in/janine-bokingkito-9b193a281)
 -  GitHub: [@ja9kyl3](https://github.com/ja9kyl3)
 
 ---
