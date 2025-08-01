@@ -1,14 +1,14 @@
 # Hi there 👋 I'm Janine!
 
-🎓 I'm a sophomore Computer Science student at Cal Poly Pomona with a passion for analysis, problem-solving, and AI/ML. I love applying technical skills to real-world challenges where I can make a meaningful impact.
+𖹭 I'm a sophomore Computer Science student at Cal Poly Pomona with a passion for analysis, problem-solving, and AI/ML. I love applying technical skills to real-world challenges where I can make a meaningful impact.
 
-💡 I've built foundational AI/ML experience through the Break Through Tech AI program and participated in multimedia research and robotics workshops. My journey is driven by curiosity, creativity, and a commitment to equity in tech.
+𖹭 I've built foundational AI/ML experience through the Break Through Tech AI program and participated in multimedia research and robotics workshops. My journey is driven by curiosity, creativity, and a commitment to equity in tech.
 
-🌟 As a proud advocate for underrepresented communities, especially women in STEM, I’m excited to help bridge the gap in opportunity and representation.
+𖹭 As a proud advocate for underrepresented communities, especially women in STEM, I’m excited to help bridge the gap in opportunity and representation.
 
 ---
 
-### 🛠️ Technical Skills
+### ✎𓂃 Technical Skills
 - **Languages**: Python, Java, C++, HTML, CSS
 - **AI/ML Tools**: Jupyter, NumPy, Pandas, Matplotlib, TensorFlow, Keras
 - **Hardware/Design**: Arduino, TinkerCad, Microcontroller Programming, Circuit Design
@@ -16,7 +16,7 @@
 
 ---
 
-### 📌 Featured Projects
+### જ⁀➴ Featured Projects
 
 **The Cyclone Game Workshop**  
 🔗 *Jan 2025 – Feb 2025*  
