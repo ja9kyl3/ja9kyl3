@@ -18,15 +18,11 @@
 
 ### જ⁀➴ Featured Projects
 
-**The Cyclone Game Workshop**  
-🔗 *Jan 2025 – Feb 2025*  
-Created a digital prototype of an electronic Cyclone game using Arduino and TinkerCad. Collaborated on circuit design and C++ microcontroller programming.  
-**Tech Stack**: C++, TinkerCad, Arduino
-
-**USC ISI Robotics Program**  
-🔗 *Jun 2023 – Aug 2023*  
-Developed Arduino robots using C++. Led team efforts in coding and hardware integration while exploring STEM careers through research mentorship.  
-**Tech Stack**: C++, Arduino, Robotics
+| Project | Description | Tech |
+|--------|-------------|------|
+| [My‑eCornell‑Portfolio](https://github.com/ja9kyl3/My-eCornell-Portfolio) | Final AI/ML portfolio built during the Break Through Tech x Cornell program. Includes predictive modeling, ethics in AI, and hands-on ML work. | Python, Jupyter, Pandas, Scikit-learn |
+| [restaurant‑checker‑manager](https://github.com/ja9kyl3/restaurant-checker-manager-) | Java CLI app to simulate restaurant availability and order management logic. | Java |
+| [Project‑4](https://github.com/ja9kyl3/Project-4) | Recursion practice project: includes Tower of Hanoi and max-finding algorithms. | Java |
 
 ---
 
