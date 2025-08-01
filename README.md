@@ -26,13 +26,6 @@
 
 ---
 
-### . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁. GitHub Stats & Widgets. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
-
-![Janine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ja9kyl3&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ja9kyl3&layout=compact)
-
----
-
 ### ✉︎ Connect with Me
 
 -  Email: janinebokingkito@gmail.com
