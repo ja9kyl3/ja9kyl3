@@ -20,9 +20,11 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [My‑eCornell‑Portfolio](https://github.com/ja9kyl3/My-eCornell-Portfolio) | Final AI/ML portfolio built during the Break Through Tech x Cornell program. Includes predictive modeling, ethics in AI, and hands-on ML work. | Python, Jupyter, Pandas, Scikit-learn |
-| [restaurant‑checker‑manager](https://github.com/ja9kyl3/restaurant-checker-manager-) | Java CLI app to simulate restaurant availability and order management logic. | Java |
-| [Project‑4](https://github.com/ja9kyl3/Project-4) | Recursion practice project: includes Tower of Hanoi and max-finding algorithms. | Java |
+| [My-eCornell-Portfolio](https://github.com/ja9kyl3/My-eCornell-Portfolio) | Final AI/ML portfolio built during the Break Through Tech x Cornell program. Includes predictive modeling, ethics in AI, and hands-on ML work. | Python, Jupyter, Pandas, Scikit-learn |
+| [AMEX Credit Score Classification](https://github.com/tlee817/amex-credit-score-classification) | Developed a supervised machine learning model to classify customers into credit score brackets, achieving high accuracy through feature engineering and model tuning in a collaborative internship setting. | Python, Pandas, Scikit-learn |
+| [TREVOR (People Tracking System)](https://github.com/CPP-SIIL/TREVOR/tree/janines-branch) | Contributed to a real-time computer vision system for tracking ingress and egress using ByteTrack. Designed and implemented the frontend dashboard to visualize occupancy data and analytics using a React + FastAPI stack. | Python, PyTorch, React, FastAPI |
+| [restaurant-checker-manager](https://github.com/ja9kyl3/restaurant-checker-manager-) | Java CLI app to simulate restaurant availability and order management logic. | Java |
+| [Project-4](https://github.com/ja9kyl3/Project-4) | Recursion practice project: includes Tower of Hanoi and max-finding algorithms. | Java |
 
 ---
 
